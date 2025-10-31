@@ -20,7 +20,8 @@
 }
 
 body {
-  min-height: 100dvh;
+  min-height: 80dvh;
+  max-height: 80dvh;
   display: grid;
   place-items: center;
   position: fixed;
