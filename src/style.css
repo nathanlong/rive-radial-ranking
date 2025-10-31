@@ -23,6 +23,8 @@ body {
   min-height: 100dvh;
   display: grid;
   place-items: center;
+  position: fixed;
+  inset: 0;
 }
 
 canvas {
